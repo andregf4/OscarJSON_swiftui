@@ -1,0 +1,250 @@
+[
+  {
+    "year" : "2000",
+    "movie" : "American Beauty",
+    "genre" : [
+        "Drama"
+    ],
+    "director" : "Sam Mendes",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/9/99/AmericanBeautyPoster.jpg"
+  },
+  {
+    "year" : "2001",
+    "movie" : "Gladiator",
+    "genre" : [
+      "Historical Drama",
+      "Action",
+      "Adventure"
+    ],
+    "director" : "Ridley Scott",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/4/44/GladiadorPoster.jpg"
+  },
+  {
+    "year" : "2002",
+    "movie" : "A Beautiful Mind",
+    "genre" : [
+      "Biographical Drama"
+    ],
+    "director" : "Ron Howard",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b1/UmaMenteBrilhante.jpg"
+  },
+  {
+    "year" : "2003",
+    "movie" : "Chicago",
+    "genre" : [
+      "Musical",
+      "Drmatic Comedy",
+      "Crime"
+    ],
+    "director" : "Rob Marshall",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/7/7f/Chicago_2002.jpg"
+  },
+  {
+    "year" : "2004",
+    "movie" : "The Lord of the Rings",
+    "genre" : [
+      "Adventure",
+      "Epic",
+      "Fantasy"
+    ],
+    "director" : "Peter Jackson",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/0/0d/EsdlaIII.jpg"
+  },
+  {
+    "year" : "2005",
+    "movie" : "Million Dollar Baby",
+    "genre" : [
+      "Drama"
+    ],
+    "director" : "Clint Eastwood",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/c/cf/Million_Dollar_Baby.jpg"
+  },
+  {
+    "year" : "2006",
+    "movie" : "Crash",
+    "genre" : [
+      "Drama"
+    ],
+    "director" : "Paul Haggis",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/c/ca/Crash_%282004%29.jpg"
+  },
+  {
+    "year" : "2007",
+    "movie" : "The Departed",
+    "genre" : [
+      "Detective",
+      "Thriller"
+    ],
+    "director" : "Martin Scorsese",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b8/TheDepartedposter.jpg"
+  },
+  {
+    "year" : "2008",
+    "movie" : "No Country for Old Man",
+    "genre" : [
+      "Drama",
+      "Thriller"
+    ],
+    "director" : "Ethan Coen",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/0/00/No_country_for_old_men.png"
+  },
+  {
+    "year" : "2009",
+    "movie" : "Slumdog Millionaire",
+    "genre" : [
+      "Romantic Drama"
+    ],
+    "director" : "Danny Boyle",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/8/82/Slumdog_Millionaire_2008.jpg"
+  },
+  {
+    "year" : "2010",
+    "movie" : "The Hurt Locker",
+    "genre" : [
+      "War Drama"
+    ],
+    "director" : "Kathryn Bigelow",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/8/82/Hurt_locker.jpg"
+  },
+  {
+    "year" : "2011",
+    "movie" : "The King's Speech",
+    "genre" : [
+      "Biographical Drama"
+    ],
+    "director" : "Tom Hooper",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/f/fe/TheKingsSpeech.jpg"
+  },
+  {
+    "year" : "2012",
+    "movie" : "The Artist",
+    "genre" : [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director" : "Michel Hazanavicius",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/b/be/TheArtist-P%C3%B4ster.jpg"
+  },
+  {
+    "year" : "2013",
+    "movie" : "Argo",
+    "genre" : [
+      "Historical-biographical Drama",
+      "Thriller"
+    ],
+    "director" : "Ben Affleck",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/e/e1/Argo2012Poster.jpg"
+  },
+  {
+    "year" : "2014",
+    "movie" : "12 Years a Slave",
+    "genre" : [
+      "Historical-biographical Drama"
+    ],
+    "director" : "Steve McQueen",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Twelve_Years_a_Slave.jpg"
+  },
+  {
+    "year" : "2015",
+    "movie" : "Birdman",
+    "genre" : [
+      "Dramatic Comedy"
+    ],
+    "director" : "Alejandro González Iñárritu",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/4/4d/Birdmanposter.jpg"
+  },
+  {
+    "year" : "2016",
+    "movie" : "Spotlight",
+    "genre" : [
+      "Historical-biographical Drama"
+    ]
+    ,
+    "director" : "Tom McCarthy",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/f/f4/Spotlight_%28filme%29.jpg"
+  },
+  {
+    "year" : "2017",
+    "movie" : "Moonlight",
+    "genre" : [
+      "Drama"
+    ],
+    "director" : "Berry Jenkins",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/f/f3/Moonlight_%28filme%29.png"
+  },
+  {
+    "year" : "2018",
+    "movie" : "The Shape of Water",
+    "genre" : [
+      "Dark Fantasy",
+      "Romance",
+      "Drama",
+      "Adventure"
+    ],
+    "director" : "Guillermo del Toro",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/2/2a/The_Shape_of_Water_%28filme%29.png"
+  },
+  {
+    "year" : "2019",
+    "movie" : "Green Book",
+    "genre" : [
+      "Dramatic Comedy"
+    ],
+    "director" : "Peter Farrely",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/f/f0/Green_Book_-_Poster.jpg"
+  },
+  {
+    "year" : "2020",
+    "movie" : "Gisaengchung",
+    "genre" : [
+      "Dark Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "director" : "Bong Joon-ho",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/b/be/Parasite_poster.jpg"
+  },
+  {
+    "year" : "2021",
+    "movie" : "Nomadland",
+    "genre" : [
+      "Drama"
+    ],
+    "director" : "Chloé Zhao",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/9/94/Nomadland_%28cartaz%29.png"
+  },
+  {
+    "year" : "2022",
+    "movie" : "CODA",
+    "genre" : [
+      "Dramatic Comedy"
+    ],
+    "director" : "Sian Heder",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/e/eb/Coda_2021.jpg"
+  },
+  {
+    "year" : "2023",
+    "movie" : "Everything Everywhere All at Once",
+    "genre" : [
+      "Science Fiction",
+      "Action",
+      "Comedy",
+      "Absurd Humor",
+      "Surrealism"
+    ],
+    "director" : "Daniel Kwan",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/0/06/Everything_Everywhere_All_at_Once_2022.jpg"
+  },
+  {
+    "year" : "2024",
+    "movie" : "Oppenheimer",
+    "genre" : [
+      "Biopic",
+      "Science Fiction",
+      "Drama"
+    ],
+    "director" : "Christopher Nolan",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/5/5b/Oppenheimer_poster.jpg"
+  }
+]
